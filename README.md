@@ -14,3 +14,6 @@ The Example is described in the actifsource user manual [Context Sensitive Help]
 
 ## Requirements
 Actifsource Workbench Enterprise Edition
+
+## License
+[http://www.actifsource.com/company/license](http://www.actifsource.com/company/license)
