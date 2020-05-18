@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="17fe6a4a-945d-11ea-b3a6-d17cd8d6e816">
+  <owns predicate="f3a63020-757c-11e9-81bf-b5c5a5661a13">
+    <resource statement-guid="17fe6a92-945d-11ea-b3a6-d17cd8d6e816" type="resource" guid="17fe6a4b-945d-11ea-b3a6-d17cd8d6e816" />
+  </owns>
+  <owns predicate="4a70b8d1-7af8-11e9-b79c-4b260133dff7">
+    <resource statement-guid="17fe6a96-945d-11ea-b3a6-d17cd8d6e816" type="resource" guid="17fe6a4c-945d-11ea-b3a6-d17cd8d6e816" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="17fe6a8e-945d-11ea-b3a6-d17cd8d6e816" type="resource" guid="d159fa34-757c-11e9-81bf-b5c5a5661a13" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="17fe6a8f-945d-11ea-b3a6-d17cd8d6e816" type="literal">ExampleHelpSystem</object>
+  </predicate>
+  <predicate guid="f3a63020-757c-11e9-81bf-b5c5a5661a13">
+    <object statement-guid="17fe6a92-945d-11ea-b3a6-d17cd8d6e816">
+      <resource guid="17fe6a4b-945d-11ea-b3a6-d17cd8d6e816">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="17fe6a90-945d-11ea-b3a6-d17cd8d6e816" type="resource" guid="efcdff96-757c-11e9-81bf-b5c5a5661a13" />
+        </predicate>
+        <predicate guid="894b0e42-757d-11e9-81bf-b5c5a5661a13">
+          <object statement-guid="17fe6a91-945d-11ea-b3a6-d17cd8d6e816" type="literal">help/HelpContextFile.xml</object>
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="4a70b8d1-7af8-11e9-b79c-4b260133dff7">
+    <object statement-guid="17fe6a96-945d-11ea-b3a6-d17cd8d6e816">
+      <resource guid="17fe6a4c-945d-11ea-b3a6-d17cd8d6e816">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="17fe6a93-945d-11ea-b3a6-d17cd8d6e816" type="resource" guid="400cf65b-7af8-11e9-b79c-4b260133dff7" />
+        </predicate>
+        <predicate guid="8aaa10c4-7af8-11e9-b79c-4b260133dff7">
+          <object statement-guid="17fe6a94-945d-11ea-b3a6-d17cd8d6e816" type="literal">help/TableOfContentsFile.xml</object>
+        </predicate>
+        <predicate guid="376d70b0-7bca-11e9-8aa7-b956858aea92">
+          <object statement-guid="17fe6a95-945d-11ea-b3a6-d17cd8d6e816" type="literal">true</object>
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+</resource>
+
