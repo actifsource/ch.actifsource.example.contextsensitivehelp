@@ -12,5 +12,5 @@ The Example is described in the actifsource user manual [Context Sensitive Help]
 ![Eclipse Help Content](images/eclipsehelpcontent.png)
 
 
-# Requirements
+## Requirements
 Actifsource Workbench Enterprise Edition
